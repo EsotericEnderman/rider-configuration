@@ -1,3 +1,3 @@
 # Rider Configuration
 
-> My settings for JetBrain's Rider IDE.
+> My settings for JetBrains' Rider IDE.
