@@ -25,6 +25,8 @@ options/other.xml
 options/recentProjects.xml
 options/updates.xml
 options/window.state.xml
+options/recentSolutionsConfiguration.xml
+options/recentSolutions.xml
 
 !bundled_plugins.txt
 
