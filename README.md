@@ -2,6 +2,8 @@
 
 > My settings for JetBrains' Rider IDE.
 
+[![Project Status: Maintained](./assets/images/badges/status.svg)](./)
+
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">

@@ -5,6 +5,11 @@
 !README.md
 !LICENSE.md
 
+!assets
+!assets/*
+!assets/*/*
+!assets/*/*/*
+
 !.vscode
 !.vscode/*
 
