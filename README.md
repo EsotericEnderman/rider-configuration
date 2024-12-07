@@ -1,8 +1,8 @@
 # Rider Configuration
 
-> My settings for JetBrains' Rider IDE.
-
 [![Project Status: Maintained](./assets/images/badges/status.svg)](./)
+
+> My settings for JetBrains' Rider IDE.
 
 ## License
 
