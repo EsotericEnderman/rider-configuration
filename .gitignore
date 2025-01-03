@@ -33,6 +33,7 @@ options/updates.xml
 options/window.state.xml
 options/recentSolutionsConfiguration.xml
 options/recentSolutions.xml
+options/rider.perapp.window.state.v2.xml
 
 !bundled_plugins.txt
 
